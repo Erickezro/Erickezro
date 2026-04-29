@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=600&height=50&backgroundOpacity=0&border=false&cursorStyle=block&lines=%5B%7B%22text%22%3A%22Hello%2C+World%21+Welcome+to+my+GitHub+page.%22%2C%22font%22%3A%22Jersey+15%22%2C%22color%22%3A%22%232961c2%22%2C%22fontSize%22%3A30%2C%22typingSpeed%40%3A0.3508771929824561%2C%22deleteSpeed%22%3A0.2008032128514056%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=600&height=50&backgroundOpacity=0&border=false&cursorStyle=block&lines=%5B%7B%22text%22%3A%22Hello%2C+World%21+Welcome+to+my+GitHub+page.%22%2C%22font%22%3A%22Jersey+15%22%2C%22color%22%3A%22%232961c2%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.1508771929824561%2C%22deleteSpeed%22%3A0.10000%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 </div>
 
